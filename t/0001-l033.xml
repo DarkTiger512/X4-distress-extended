@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Fork modification notice:
+  This file was modified from the original Apache-2.0-licensed project by TrueBlueBanana.
+  Changes in this fork update the distress-call localization text.
+-->
 <diff>
     <replace sel="/language/page[@id=&quot;1001&quot;]/t[@id=&quot;11142&quot;]/text()[1]">Répondre aux appels de détresse</replace>
     <replace sel="/language/page[@id=&quot;1026&quot;]/t[@id=&quot;7867&quot;]/text()[1]">Les vaisseaux de ce groupe répondront aux appels de détresse lancés par les vaisseaux et stations appartenant à leur faction dans le secteur qui leur a été attribué.</replace>

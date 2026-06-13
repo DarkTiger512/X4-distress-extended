@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+  Fork modification notice:
+  This file was modified from the original Apache-2.0-licensed project by TrueBlueBanana.
+  Changes in this fork include X4: Foundations 9.0 metadata updates.
+-->
 <content
         id="tbb_distress_extended"
         name="Position Defense Distress Extended"

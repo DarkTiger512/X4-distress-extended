@@ -1,5 +1,7 @@
 # X4 Distress Extended
 
+Fork notice: this repository is a modified fork of the original Apache-2.0-licensed project by TrueBlueBanana. Changes in this fork include X4: Foundations 9.0 metadata, documentation, and localization updates.
+
 A small extension for X4: Foundations that expands the fleet "Respond to Station Distress Calls" behavior for the `Position defense` order.
 
 When enabled on a fleet in `Position defense` mode, fleets will respond to attacks on ships and stations belonging to their faction in the assigned sector — not just faction-owned stations in the commander's sector.
@@ -48,7 +50,7 @@ Before / After (extension active):
 
 ## License
 
-This project is licensed under the terms in the `LICENSE` file in this repository.
+This project is licensed under the terms in the `LICENSE` file in this repository. See `NOTICE` for attribution and modification notices for this fork.
 
 ## Contact
 

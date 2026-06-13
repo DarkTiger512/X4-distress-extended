@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Fork modification notice:
+  This file was modified from the original Apache-2.0-licensed project by TrueBlueBanana.
+  Changes in this fork update the distress-call localization text.
+-->
 <diff>
     <replace sel="/language/page[@id=&quot;1001&quot;]/t[@id=&quot;11142&quot;]/text()[1]">Respond to Distress Calls</replace>
     <replace sel="/language/page[@id=&quot;1026&quot;]/t[@id=&quot;7867&quot;]/text()[1]">Ships in this group will respond to distress calls from ships and stations belonging to their faction in their assigned sector.</replace>
