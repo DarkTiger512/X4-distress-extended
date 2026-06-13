@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <content
         id="tbb_distress_extended"
-        name="Position defence distress extended"
+        name="Position Defense Distress Extended"
         author="TrueBlueBanana"
-        version="001"
-        date="2025-08-28"
+        version="002"
+        date="2026-06-13"
         save="false"
         sync="false"
         enabled="true"
-        description="Respond to station distress calls is extended to every ships"
+        description="Extends Position Defense distress-call response to ships and stations belonging to the fleet's faction in the assigned sector."
 />
